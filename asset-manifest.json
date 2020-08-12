@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/basic-signup-form/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/basic-signup-form/static/js/main.7ab33e5d.chunk.js",
+    "main.js.map": "/basic-signup-form/static/js/main.7ab33e5d.chunk.js.map",
+    "runtime-main.js": "/basic-signup-form/static/js/runtime-main.f32e212c.js",
+    "runtime-main.js.map": "/basic-signup-form/static/js/runtime-main.f32e212c.js.map",
+    "static/js/2.2e694a83.chunk.js": "/basic-signup-form/static/js/2.2e694a83.chunk.js",
+    "static/js/2.2e694a83.chunk.js.map": "/basic-signup-form/static/js/2.2e694a83.chunk.js.map",
+    "index.html": "/basic-signup-form/index.html",
+    "precache-manifest.0173dd7e773fd01ba0000063d3e91634.js": "/basic-signup-form/precache-manifest.0173dd7e773fd01ba0000063d3e91634.js",
+    "service-worker.js": "/basic-signup-form/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/basic-signup-form/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.2e694a83.chunk.js.LICENSE.txt": "/basic-signup-form/static/js/2.2e694a83.chunk.js.LICENSE.txt",
+    "static/media/moon.25e91ac6.svg": "/basic-signup-form/static/media/moon.25e91ac6.svg",
+    "static/media/sun.fe4053b9.svg": "/basic-signup-form/static/media/sun.fe4053b9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f32e212c.js",
+    "static/js/2.2e694a83.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.7ab33e5d.chunk.js"
+  ]
+}
